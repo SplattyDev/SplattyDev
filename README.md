@@ -4,7 +4,7 @@
 💪 Self-taught junior designer and Swift coder<br/>
 🐰 Former member of the rabbit r[eborn] organization, the first reverse engineering project for the rabbit r1<br/>
 ♿️ I create accessible, yet unique iOS apps, to solve everyday problems<br/>
-🎥 I am a motion designer posting on both [TikTok](https://www.tiktok.com/@techbysplatty?lang=en) and [Instagram](https://www.instagram.com/realsplattyy/)<br/>
+🎥 I am a motion designer posting on both [TikTok](https://www.tiktok.com/@splattydoesstuff?lang=en) and [Instagram](https://www.instagram.com/splattydoesstuff/)<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/splattydeosstuff) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@splattydoesstuff) 
